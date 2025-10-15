@@ -247,16 +247,7 @@ export default function UltimatePortfolio() {
 
   // Sample projects data
   const projects = [
-    {
-      id: 1,
-      name: 'DocuTrack',
-      description: 'Document tracking and workflow automation system with real-time collaboration.',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Socket.io'],
-      githubUrl: 'https://github.com/sohibnimer/doctrack',
-      liveUrl: 'https://doctrack.demo.com',
-      stars: 24,
-      updated: '2024-01-15'
-    },
+   
     {
       id: 2,
       name: 'Sound2Emoji',
